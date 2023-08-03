@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: rgb(220 38 38);
+}
