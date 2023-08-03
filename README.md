@@ -34,4 +34,5 @@ Getting started with Etch Symphony is as easy as 1-2-3:
 ## Usage
 
 Enjoy creating pixel art at [Etch Symphony](https://etch-symphony-by-aman.netlify.app/)
+
 Happy drawing! 🎨
